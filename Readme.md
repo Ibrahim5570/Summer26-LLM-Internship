@@ -1,4 +1,4 @@
-\# Summer '26 LLM \& Remote Sensing Internship
+# Summer '26 LLM & Remote Sensing Internship
 
 
 
@@ -6,25 +6,25 @@ This repository contains the codebase for local LLM benchmarking and voice-proce
 
 
 
-\---
+---
 
 
 
-\## Dataset Access
+## Dataset Access
 
 
 
-> \*\*Important:\*\* To keep the repository lightweight and optimized, the raw satellite data chips and audio files are excluded from version control. 
+> **Important:** To keep the repository lightweight and optimized, the raw satellite data chips and audio files are excluded from version control. 
 
 
 
 The complete historical dataset can be downloaded directly from Google Drive:
 
-\* \*\*\[Download Dataset (Pakistan\_10m\_Dataset\_Chips) Here](YOUR\_GOOGLE\_DRIVE\_LINK\_HERE)\*\*
+* **[Download Dataset (Pakistan_10m_Dataset_Chips) Here]https://drive.google.com/drive/folders/1ChCagTn6MtKF7Uil9jSg0dInpAMuOuaN?usp=sharing**
 
 
 
-\### Local Data Setup
+### Local Data Setup
 
 To run the analysis scripts locally, download the dataset folder from the link above and place it in the root directory of this project under a folder named `Satellite Images/`:
 
@@ -34,7 +34,7 @@ DPL 26/
 
 ├── Satellite Images/
 
-│   └── Pakistan\_10m\_Dataset\_Chips/   <-- Drop downloaded .tif files here
+│   └── Pakistan_10m_Dataset_Chips/   <-- Drop downloaded .tif files here
 
-└── ollama\_model\_tryouts/
+└── ollama_model_tryouts/
 
