@@ -31,11 +31,8 @@ To run the analysis scripts locally, download the dataset folder from the link a
 
 ```text
 
-DPL 26/
-
+Your Project/
 ├── Satellite Images/
-
 │   └── Pakistan_10m_Dataset_Chips/   <-- Drop downloaded .tif files here
-
 └── ollama_model_tryouts/
 
