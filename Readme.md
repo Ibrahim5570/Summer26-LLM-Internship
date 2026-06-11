@@ -35,4 +35,14 @@ Your Project/
 ├── Satellite Images/
 │   └── Pakistan_10m_Dataset_Chips/   <-- Drop downloaded .tif files here
 └── ollama_model_tryouts/
+```
+## Dataset Skardu
 
+### Historical Satellite Imagery Dataset
+Contributor: Ayesha
+
+Drive Link:
+https://drive.google.com/drive/folders/1yrKSkAQKrmvo6VcwrfK7YbBmBQMqTJgP?usp=sharing
+
+Description:
+Water bodies and glacier of skardu region. 
